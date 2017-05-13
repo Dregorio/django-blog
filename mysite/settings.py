@@ -25,7 +25,7 @@ SECRET_KEY = 'b%js^f&op=*)ugqi6u-pt$ayk=m9z3@wa9jjl)5ke^agzt%xo#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['dregorio.pythonanywhere.com']
+ALLOWED_HOSTS = ['dregorio.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
